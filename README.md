@@ -8,7 +8,7 @@ All necessary files are given. There is also a manual named "UserGuide" about in
 
 ## Gameplay
 Gameplay is just like classic one. 
- Up button for going up, left button for going left etc.
- Run away from the ghost to avoid get eaten
- Eat the dots to get points
- Eat the cherris and logences to get extra points and perks
+ #Up button for going up, left button for going left etc.
+ #Run away from the ghost to avoid get eaten
+ #Eat the dots to get points
+ #Eat the cherris and logences to get extra points and perks
