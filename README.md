@@ -13,3 +13,7 @@ Gameplay is just like classic one.
 * Run away from the ghost to avoid get eaten.
 * Eat the dots to get points.
 * Eat the cherris and logences to get extra points and perks.
+
+## Demonstration: 
+Here is the demo video of the game:
+youtu.be/K1Sk-ufnB8k
