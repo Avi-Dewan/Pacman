@@ -15,4 +15,4 @@ Gameplay is just like classic one.
 * Eat the cherris and logences to get extra points and perks.
 
 ## Demonstration: 
-See the demo [here](youtu.be/K1Sk-ufnB8k).
+See the demo [here](https://www.youtube.com/watch?v=K1Sk-ufnB8k).
